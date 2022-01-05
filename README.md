@@ -18,7 +18,7 @@
 >1. Port : 8181
 >2. User : J20210903_3
 >3. Password : tiger
->5. jobsound.sql 파일에 적혀있는 <u>쿼리를 실행</u>해주세요.
+>5. jobsoundDB.sql 파일에 적혀있는 <u>쿼리를 실행</u>해주세요.
 
 ## 프로젝트 제공기능
 #### 각 이미지와 설명을 한번에 보시려면 <u>jobsound.pdf</u>를 실행해주세요.
